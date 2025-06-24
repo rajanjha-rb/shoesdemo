@@ -171,10 +171,10 @@ const App = () => {
           >
             <FaFacebook className="hover:text-blue-500" />
           </a>
-          <a href="https://www.instagram.com/codocuofficial/" target="_blank">
+          <a href="https://www.instagram.com/codocu_official/" target="_blank">
             <FaInstagram className="hover:text-pink-400" />
           </a>
-          <a href="https://wa.me/9800000000" target="_blank">
+          <a href="https://wa.me/9779762717552" target="_blank">
             <FaWhatsapp className="hover:text-green-400" />
           </a>
         </div>
